@@ -6,8 +6,8 @@ def subtract(a, b):
     return a + b
 
 
-def multiply(a, b):
-    return a * b
+def multiply(a, c):
+    return a * c
 
 
 def convert_fahrenheit_to_celsius(fahrenheit):
